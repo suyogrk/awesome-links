@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Blade](#blade)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -30,6 +31,11 @@
 ## Astro 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## Blade 
+
+- [Jimmy-JS/laravel-report-generator](https://github.com/Jimmy-JS/laravel-report-generator) - Rapidly Generate Simple Pdf, CSV, & Excel Report Package on Laravel
+- [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Send beautiful HTML emails with Laravel
 
 ## C# # 
 
@@ -82,6 +88,8 @@
 
 ## JavaScript 
 
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+- [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [mistermicheels/learning-notes](https://github.com/mistermicheels/learning-notes) - Notes regarding things I have learned
 - [younginnovations/iatipublisher](https://github.com/younginnovations/iatipublisher) - IATI Publishing Tool
 - [spatie/laravel-web-tinker](https://github.com/spatie/laravel-web-tinker) - Tinker in your browser
@@ -196,6 +204,7 @@
 
 ## PHP 
 
+- [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 - [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
 - [ash-jc-allen/laravel-executor](https://github.com/ash-jc-allen/laravel-executor) - Configurable code that can be run when installing and updating your web app.
