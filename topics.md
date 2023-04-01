@@ -457,6 +457,7 @@
 
 ## laravel 
 
+- [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [Jimmy-JS/laravel-report-generator](https://github.com/Jimmy-JS/laravel-report-generator) - Rapidly Generate Simple Pdf, CSV, & Excel Report Package on Laravel
 - [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Send beautiful HTML emails with Laravel
