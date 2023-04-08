@@ -34,6 +34,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [education](#education)
 - [ember](#ember)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -296,6 +297,13 @@
 
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+
+## education 
+
+- [mnemosyne-proj/mnemosyne](https://github.com/mnemosyne-proj/mnemosyne) - Mnemosyne: efficient learning with powerful digital flash-cards.
+- [fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) - A curated list of resources for learning about the Laravel PHP Framework
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 
 ## ember 
 
