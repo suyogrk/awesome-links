@@ -271,7 +271,7 @@
 
 ## deployment 
 
-- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
 ## design 
 
@@ -735,7 +735,7 @@
 ## ruby 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [sportdb/sport.db](https://github.com/sportdb/sport.db) - sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries
