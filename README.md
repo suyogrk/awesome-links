@@ -256,7 +256,7 @@
 ## Ruby 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [sportdb/sport.db](https://github.com/sportdb/sport.db) - sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
