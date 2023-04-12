@@ -35,7 +35,7 @@
 ## Blade 
 
 - [Jimmy-JS/laravel-report-generator](https://github.com/Jimmy-JS/laravel-report-generator) - Rapidly Generate Simple Pdf, CSV, & Excel Report Package on Laravel
-- [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Send beautiful HTML emails with Laravel
+- [snowfire/Beautymail](https://github.com/snowfire/Beautymail) - Send beautiful HTML emails with Laravel
 
 ## C# # 
 
@@ -204,6 +204,9 @@
 
 ## PHP 
 
+- [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
+- [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
+- [php-strictus/strictus](https://github.com/php-strictus/strictus) - Strict Typing on inline variables for PHP
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
