@@ -9,6 +9,7 @@
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -127,6 +128,11 @@
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## api 
+
+- [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
+- [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
 
 ## artificial-intelligence 
 
@@ -288,6 +294,7 @@
 
 ## docker 
 
+- [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [Zeks/flipper](https://github.com/Zeks/flipper) - Search/Recommendation engine and metainformation server for fanfiction net
 
@@ -470,10 +477,12 @@
 
 ## laravel 
 
+- [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
+- [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [Jimmy-JS/laravel-report-generator](https://github.com/Jimmy-JS/laravel-report-generator) - Rapidly Generate Simple Pdf, CSV, & Excel Report Package on Laravel
-- [Snowfire/Beautymail](https://github.com/Snowfire/Beautymail) - Send beautiful HTML emails with Laravel
+- [snowfire/Beautymail](https://github.com/snowfire/Beautymail) - Send beautiful HTML emails with Laravel
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 - [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
 - [ash-jc-allen/laravel-executor](https://github.com/ash-jc-allen/laravel-executor) - Configurable code that can be run when installing and updating your web app.
@@ -649,6 +658,8 @@
 
 ## php 
 
+- [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
+- [php-strictus/strictus](https://github.com/php-strictus/strictus) - Strict Typing on inline variables for PHP
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; 
 - [protonemedia/laravel-guidelines](https://github.com/protonemedia/laravel-guidelines) - Not necessarily coding standards (naming conventions, avoid else, etc.), but more like 'app'-guidelines - things you don't want to forget.
