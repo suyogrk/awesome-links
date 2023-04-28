@@ -584,6 +584,7 @@
 
 ## others 
 
+- [paul-thebaud/phpunitgen-core](https://github.com/paul-thebaud/phpunitgen-core) - PhpUnitGen is a PHP tool to generate your unit tests' skeletons on your projects.
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
