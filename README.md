@@ -136,6 +136,8 @@
 
 ## Others 
 
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [AlbertFX91/awesome-cto](https://github.com/AlbertFX91/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [framgia/laravel-test-guideline](https://github.com/framgia/laravel-test-guideline) - Guideline for writing tests in a Laravel Project
@@ -206,6 +208,7 @@
 
 ## PHP 
 
+- [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
 - [paul-thebaud/phpunitgen-core](https://github.com/paul-thebaud/phpunitgen-core) - PhpUnitGen is a PHP tool to generate your unit tests' skeletons on your projects.
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
 - [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
@@ -281,6 +284,7 @@
 
 ## TypeScript 
 
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [garageScript/c0d3-app](https://github.com/garageScript/c0d3-app) - C0D3 - Become a Software Engineer the Hard Way
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
