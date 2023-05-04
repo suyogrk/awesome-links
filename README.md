@@ -122,6 +122,7 @@
 
 ## Jupyter Notebook 
 
+- [islomar/my-notes](https://github.com/islomar/my-notes) - Notes from my readings :-)
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [prakhar21/50-Days-of-ML](https://github.com/prakhar21/50-Days-of-ML) - A day to day plan for this challenge (50 Days of Machine Learning) . Covers both theoretical and practical aspects
 
@@ -131,7 +132,6 @@
 
 ## Makefile 
 
-- [islomar/my-notes](https://github.com/islomar/my-notes) - Notes from my readings :-)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Others 
