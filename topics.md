@@ -586,6 +586,7 @@
 
 ## others 
 
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
 - [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
 - [AlbertFX91/awesome-cto](https://github.com/AlbertFX91/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
