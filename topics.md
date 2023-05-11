@@ -511,7 +511,7 @@
 - [ammezie/laravel-notes](https://github.com/ammezie/laravel-notes) - A collaborative note app built with Laravel and Pusher
 - [pvtl/voyager-page-blocks](https://github.com/pvtl/voyager-page-blocks) - A module to provide page blocks for Voyager 📝
 - [Hardeepcoder/larashop55](https://github.com/Hardeepcoder/larashop55) - Shopping cart website in Laravel 5.5 with Ajax
-- [rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) - The Laravel Boilerplate Project - https://laravel-boilerplate.com - For Slack access, visit:
+- [rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) - The Laravel Boilerplate Project - https://laravel-boilerplate.com
 - [lukepolo/laracart](https://github.com/lukepolo/laracart) - Laravel Shopping Cart Package
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
@@ -690,7 +690,7 @@
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [pvtl/voyager-page-blocks](https://github.com/pvtl/voyager-page-blocks) - A module to provide page blocks for Voyager 📝
-- [rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) - The Laravel Boilerplate Project - https://laravel-boilerplate.com - For Slack access, visit:
+- [rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) - The Laravel Boilerplate Project - https://laravel-boilerplate.com
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [yegor256/quiz](https://github.com/yegor256/quiz) - Refactor the code to make it look more object-oriented and maintainable
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
