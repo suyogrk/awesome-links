@@ -212,6 +212,8 @@
 
 ## PHP 
 
+- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
+- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application.
 - [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
 - [paul-thebaud/phpunitgen-core](https://github.com/paul-thebaud/phpunitgen-core) - PhpUnitGen is a PHP tool to generate your unit tests' skeletons on your projects.
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
