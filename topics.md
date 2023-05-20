@@ -589,6 +589,7 @@
 
 ## others 
 
+- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application.
 - [byrondover/api-guidelines](https://github.com/byrondover/api-guidelines) - RESTful HTTP API guidelines and best practices.
 - [keras-team/governance](https://github.com/keras-team/governance) - Governance of the Keras API.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
@@ -685,6 +686,7 @@
 
 ## php 
 
+- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
 - [php-strictus/strictus](https://github.com/php-strictus/strictus) - Strict Typing on inline variables for PHP
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
