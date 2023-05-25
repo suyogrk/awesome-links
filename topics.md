@@ -91,6 +91,7 @@
 - [ruby](#ruby)
 - [sass](#sass)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sql](#sql)
 - [statistics](#statistics)
@@ -622,7 +623,7 @@
 - [prashanthselvam/rxjchess](https://github.com/prashanthselvam/rxjchess) - Building a chess game!
 - [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [flaviocopes/vue-developer-roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019
 - [Hasnayeen/laravel-developer-roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming a Laravel developer in 2020
 - [KaneCohen/laravel-enterprise](https://github.com/KaneCohen/laravel-enterprise) - Enterprise-level Laravel app architecture.
@@ -793,6 +794,11 @@
 
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+## self-hosted 
+
+- [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## shell 
 
