@@ -216,6 +216,7 @@
 
 ## PHP 
 
+- [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application.
 - [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
