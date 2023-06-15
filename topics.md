@@ -612,6 +612,7 @@
 
 ## others 
 
+- [HugoMatilla/The-Pragmatic-Programmer](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and  David Thomas
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems the
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application.
