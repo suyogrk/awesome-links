@@ -120,6 +120,7 @@
 
 ## algorithm 
 
+- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [harunawaizumi/algorithms_solutions](https://github.com/harunawaizumi/algorithms_solutions) - Grokking algorithms & Cracking Coding Interview Solution in Javascript
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -268,6 +269,7 @@
 
 ## data-structures 
 
+- [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -372,6 +374,7 @@
 
 ## frontend 
 
+- [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
@@ -411,6 +414,7 @@
 
 ## hacktoberfest 
 
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [ash-jc-allen/laravel-executor](https://github.com/ash-jc-allen/laravel-executor) - Configurable code that can be run when installing and updating your web app.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -458,6 +462,7 @@
 
 ## javascript 
 
+- [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -613,6 +618,8 @@
 
 ## others 
 
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [illuminate/collections](https://github.com/illuminate/collections) - [READ ONLY] Subtree split of the Illuminate Collections component (see laravel/framework)
 - [HugoMatilla/The-Pragmatic-Programmer](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and  David Thomas
