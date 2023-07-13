@@ -116,7 +116,7 @@
 - [harunawaizumi/algorithms_solutions](https://github.com/harunawaizumi/algorithms_solutions) - Grokking algorithms & Cracking Coding Interview Solution in Javascript
 - [guerrerocarlos/bitcoin-miner](https://github.com/guerrerocarlos/bitcoin-miner) - Super-slow yet very educative Bitcoin miner in Javascript/NodeJS
 - [nileshsah/reinforcement-learning-flappybird](https://github.com/nileshsah/reinforcement-learning-flappybird) - In-browser reinforcement learning for flappy bird 🐦
-- [jayway/vue-js-workshop](https://github.com/jayway/vue-js-workshop) - Jayway Vue.js workshop
+- [devoteam-se/vue-js-workshop](https://github.com/devoteam-se/vue-js-workshop) - Jayway Vue.js workshop
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [workshopper/javascripting](https://github.com/workshopper/javascripting) - Learn JavaScript by adventuring around in the terminal.
