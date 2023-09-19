@@ -412,6 +412,7 @@
 
 ## hacktoberfest 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
@@ -515,6 +516,7 @@
 
 ## laravel 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
@@ -618,6 +620,7 @@
 
 ## others 
 
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
 - [spacelift-io/user-documentation](https://github.com/spacelift-io/user-documentation) - Spacelift User Documentation
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
@@ -723,6 +726,7 @@
 
 ## php 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
