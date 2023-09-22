@@ -143,6 +143,7 @@
 
 ## Others 
 
+- [driade/laravel-book](https://github.com/driade/laravel-book) - Up to date Epub, Mobi and PDF versions from the official Laravel Docs
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
