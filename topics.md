@@ -71,6 +71,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mongodb](#mongodb)
+- [mysql](#mysql)
 - [neural-network](#neural-network)
 - [nlp](#nlp)
 - [node](#node)
@@ -154,6 +155,7 @@
 
 ## awesome 
 
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -176,6 +178,7 @@
 
 ## awesome-list 
 
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -203,6 +206,9 @@
 
 ## backend 
 
+- [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -232,6 +238,8 @@
 
 ## computer-science 
 
+- [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
+- [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
@@ -392,6 +400,7 @@
 
 ## frontend 
 
+- [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -451,6 +460,7 @@
 
 ## html 
 
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -483,6 +493,7 @@
 
 ## javascript 
 
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -612,6 +623,10 @@
 - [misa-j/social-network](https://github.com/misa-j/social-network) - Mini social network that I made as my first web app project.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 
+## mysql 
+
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
+
 ## neural-network 
 
 - [goessl/MachineLearning](https://github.com/goessl/MachineLearning) - An easy neural network for Java!
@@ -643,6 +658,7 @@
 
 ## others 
 
+- [thecodeholic/php-developer-roadmap](https://github.com/thecodeholic/php-developer-roadmap) - This is PHP Developer Roadmap
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
 - [spacelift-io/user-documentation](https://github.com/spacelift-io/user-documentation) - Spacelift User Documentation
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -746,6 +762,8 @@
 
 ## php 
 
+- [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
@@ -774,6 +792,7 @@
 
 ## postgresql 
 
+- [infinite-education/postgresql-dba-roadmap](https://github.com/infinite-education/postgresql-dba-roadmap) - PostgreSQL DBA roadmap: skillset to become a PostgreSQL DBA
 - [Zeks/flipper](https://github.com/Zeks/flipper) - Search/Recommendation engine and metainformation server for fanfiction net
 
 ## programming 
@@ -862,6 +881,7 @@
 
 ## security 
 
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
@@ -962,6 +982,7 @@
 
 ## web 
 
+- [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## web-components 
