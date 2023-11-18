@@ -98,6 +98,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [svelte](#svelte)
@@ -740,7 +741,6 @@
 - [andersao/l5-repository](https://github.com/andersao/l5-repository) - Laravel 5 - Repositories to abstract the database layer
 - [Zizaco/entrust](https://github.com/Zizaco/entrust) - Role-based Permissions for Laravel 5
 - [footballcsv/england](https://github.com/footballcsv/england) - Football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc.
-- [openfootball/england](https://github.com/openfootball/england) - Free open public domain football data for England (and Wales) incl. English Premier League (EPL) etc.
 - [dpdahal/php10am_project](https://github.com/dpdahal/php10am_project) - 
 - [melanierichards/just-build-websites](https://github.com/melanierichards/just-build-websites) - Some ideas for websites you can build!
 - [hail2u/html-best-practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents
@@ -901,6 +901,10 @@
 ## sql 
 
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
+
+## sqlite 
+
+- [openfootball/england](https://github.com/openfootball/england) - Free open public domain football data for England (and Wales) incl. English Premier League (EPL) etc.
 
 ## statistics 
 
