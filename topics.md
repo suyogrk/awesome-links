@@ -81,6 +81,7 @@
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -794,6 +795,10 @@
 
 - [infinite-education/postgresql-dba-roadmap](https://github.com/infinite-education/postgresql-dba-roadmap) - PostgreSQL DBA roadmap: skillset to become a PostgreSQL DBA
 - [Zeks/flipper](https://github.com/Zeks/flipper) - Search/Recommendation engine and metainformation server for fanfiction net
+
+## privacy 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## programming 
 
