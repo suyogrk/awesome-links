@@ -70,6 +70,7 @@
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
 - [neural-network](#neural-network)
@@ -619,6 +620,11 @@
 
 - [krthr/spotty](https://github.com/krthr/spotty) - Spotify web clone build with Vue.js and Vuetify
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+
+## microsoft 
+
+- [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+- [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 
 ## mongodb 
 
