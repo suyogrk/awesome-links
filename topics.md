@@ -753,7 +753,6 @@
 - [melanierichards/just-build-websites](https://github.com/melanierichards/just-build-websites) - Some ideas for websites you can build!
 - [hail2u/html-best-practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents
 - [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) - A curated list of resources for learning programming.
-- [devoteam-se/vue-js-workshop](https://github.com/devoteam-se/vue-js-workshop) - Jayway Vue.js workshop
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [dpdahal/mvc_project7am](https://github.com/dpdahal/mvc_project7am) - 
