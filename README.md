@@ -109,6 +109,7 @@
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
 - [manikandanraji/twitter-clone-backend](https://github.com/manikandanraji/twitter-clone-backend) - Twitter Clone Backend (Prisma + GraphQL)
 - [manikandanraji/twitter-clone-frontend](https://github.com/manikandanraji/twitter-clone-frontend) - Twitter Clone Frontend
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [fullstackopen-2019/fullstackopen-2019.github.io](https://github.com/fullstackopen-2019/fullstackopen-2019.github.io) - 
 - [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -193,7 +194,6 @@
 - [marekbrainhub/vue-developer-roadmap](https://github.com/marekbrainhub/vue-developer-roadmap) - Roadmap to becoming a better Vue developer in 2019
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
-- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [petsel/not-awesome-es6-classes](https://github.com/petsel/not-awesome-es6-classes) - A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome
 - [asutosh97/educative-io-contents](https://github.com/asutosh97/educative-io-contents) - 
 - [yungnickyoung/Python-3-Cheatsheet](https://github.com/yungnickyoung/Python-3-Cheatsheet) - Python 3 notes cheatsheet, focusing on fundamentals and useful interview tips
