@@ -73,6 +73,7 @@
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nlp](#nlp)
 - [node](#node)
@@ -638,6 +639,10 @@
 ## mysql 
 
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
+
+## natural-language-processing 
+
+- [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap) - ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP
 
 ## neural-network 
 
