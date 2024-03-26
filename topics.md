@@ -468,6 +468,7 @@
 
 ## html 
 
+- [suvash/nepalify](https://github.com/suvash/nepalify) - A JavaScript library that adds support for typing Unicode Nepali(नेपाली) input on HTML &lt;input&gt; and &lt;textarea&gt;. (both in romanized and traditional layout)
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -501,6 +502,7 @@
 
 ## javascript 
 
+- [suvash/nepalify](https://github.com/suvash/nepalify) - A JavaScript library that adds support for typing Unicode Nepali(नेपाली) input on HTML &lt;input&gt; and &lt;textarea&gt;. (both in romanized and traditional layout)
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
