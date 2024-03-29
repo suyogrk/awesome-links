@@ -723,7 +723,7 @@
 - [Hasnayeen/laravel-developer-roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming a Laravel developer in 2020
 - [KaneCohen/laravel-enterprise](https://github.com/KaneCohen/laravel-enterprise) - Enterprise-level Laravel app architecture.
 - [reinink/advanced-eloquent](https://github.com/reinink/advanced-eloquent) - A set of advanced Eloquent macros for Laravel
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [crestamr/cheatsheets](https://github.com/crestamr/cheatsheets) - My cheatsheets
 - [developers-nepal/Bagaincha](https://github.com/developers-nepal/Bagaincha) - A collection of projects, contributions, blogs, exerpts or any sort of experiments from our Developers Nepal fellow members.
 - [wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises
