@@ -720,7 +720,7 @@
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [flaviocopes/vue-developer-roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019
-- [Hasnayeen/laravel-developer-roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming a Laravel developer in 2020
+- [Hasnayeen/laravel-developer-roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming a Laravel developer
 - [KaneCohen/laravel-enterprise](https://github.com/KaneCohen/laravel-enterprise) - Enterprise-level Laravel app architecture.
 - [reinink/advanced-eloquent](https://github.com/reinink/advanced-eloquent) - A set of advanced Eloquent macros for Laravel
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
