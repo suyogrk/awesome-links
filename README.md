@@ -348,7 +348,6 @@
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [JoBinsJP/vue3-datatable](https://github.com/JoBinsJP/vue3-datatable) - Data table component for Vue3
-- [krthr/spotty](https://github.com/krthr/spotty) - Spotify web clone build with Vue.js and Vuetify
 
 
 ## License
