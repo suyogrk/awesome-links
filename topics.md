@@ -312,6 +312,7 @@
 
 ## database 
 
+- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -571,6 +572,8 @@
 
 ## laravel 
 
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
+- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [driade/laravel-book](https://github.com/driade/laravel-book) - Up to date Epub, Mobi and PDF versions from the official Laravel Docs
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -653,6 +656,7 @@
 
 ## mysql 
 
+- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 
 ## natural-language-processing 
@@ -792,6 +796,9 @@
 
 ## php 
 
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
+- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
+- [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowerin
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
