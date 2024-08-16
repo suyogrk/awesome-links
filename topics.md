@@ -40,7 +40,6 @@
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
-- [ember](#ember)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -361,7 +360,6 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [spatie/guidelines.spatie.be](https://github.com/spatie/guidelines.spatie.be) - The guidelines used at our company
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## dotfiles 
@@ -380,10 +378,6 @@
 - [fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) - A curated list of resources for learning about the Laravel PHP Framework
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-
-## ember 
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## es6 
 
