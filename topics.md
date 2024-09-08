@@ -59,6 +59,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [instagram](#instagram)
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
@@ -502,6 +503,10 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
+
+## instagram 
+
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## java 
 
