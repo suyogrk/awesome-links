@@ -710,7 +710,7 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [byrondover/api-guidelines](https://github.com/byrondover/api-guidelines) - RESTful HTTP API guidelines and best practices.
 - [keras-team/governance](https://github.com/keras-team/governance) - Governance of the Keras API.
-- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
 - [AlbertFX91/awesome-cto](https://github.com/AlbertFX91/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
