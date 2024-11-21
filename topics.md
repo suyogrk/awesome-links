@@ -575,6 +575,7 @@
 
 ## laravel 
 
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
@@ -799,6 +800,7 @@
 
 ## php 
 
+- [sokil/php-concurrency-labs](https://github.com/sokil/php-concurrency-labs) - PHP Concurency research
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
