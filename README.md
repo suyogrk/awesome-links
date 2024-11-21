@@ -76,6 +76,7 @@
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [workshopper/learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 - [manrajgrover/SingleDivProject](https://github.com/manrajgrover/SingleDivProject) - ☝️One &lt;div&gt;. Many possibilities.
@@ -98,6 +99,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [mistermicheels/learning-notes](https://github.com/mistermicheels/learning-notes) - Notes regarding things I have learned
+- [younginnovations/iatipublisher](https://github.com/younginnovations/iatipublisher) - IATI Publishing Tool
 - [spatie/laravel-web-tinker](https://github.com/spatie/laravel-web-tinker) - Tinker in your browser
 - [dwyl/learn-tdd](https://github.com/dwyl/learn-tdd) - :white_check_mark: A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)
 - [misa-j/social-network](https://github.com/misa-j/social-network) - Mini social network that I made as my first web app project.
@@ -221,7 +223,6 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -232,6 +233,8 @@
 
 ## PHP 
 
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
+- [sokil/php-concurrency-labs](https://github.com/sokil/php-concurrency-labs) - PHP Concurency research
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
@@ -261,7 +264,6 @@
 - [spatie/guidelines.spatie.be](https://github.com/spatie/guidelines.spatie.be) - The guidelines used at our company
 - [protonemedia/laravel-guidelines](https://github.com/protonemedia/laravel-guidelines) - Not necessarily coding standards (naming conventions, avoid else, etc.), but more like 'app'-guidelines - things you don't want to forget.
 - [younginnovations/aidstream](https://github.com/younginnovations/aidstream) - AidStream is a platform for small and medium size NGOs to publish their aid data in IATI standard.
-- [younginnovations/iatipublisher](https://github.com/younginnovations/iatipublisher) - IATI Publishing Tool
 - [KaneCohen/laravel-enterprise](https://github.com/KaneCohen/laravel-enterprise) - Enterprise-level Laravel app architecture.
 - [reinink/advanced-eloquent](https://github.com/reinink/advanced-eloquent) - A set of advanced Eloquent macros for Laravel
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
