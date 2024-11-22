@@ -800,6 +800,7 @@
 
 ## php 
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [sokil/php-concurrency-labs](https://github.com/sokil/php-concurrency-labs) - PHP Concurency research
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
