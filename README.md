@@ -327,7 +327,7 @@
 
 ## TeX 
 
-- [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
+- [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Linux systems programming
 - [alptheexplorer/epflLectureNotes](https://github.com/alptheexplorer/epflLectureNotes) - My lecture notes for all semesters spent studying CS at EPFL. Enjoy the read and feel free to approach me for corrections.
 
 ## TypeScript 
