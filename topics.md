@@ -730,7 +730,7 @@
 - [Harderboy/OpenEMR_src](https://github.com/Harderboy/OpenEMR_src) - 
 - [mistermicheels/learning-notes](https://github.com/mistermicheels/learning-notes) - Notes regarding things I have learned
 - [younginnovations/aidstream](https://github.com/younginnovations/aidstream) - AidStream is a platform for small and medium size NGOs to publish their aid data in IATI standard.
-- [younginnovations/iatipublisher](https://github.com/younginnovations/iatipublisher) - IATI Publishing Tool
+- [IATI/iatipublisher](https://github.com/IATI/iatipublisher) - IATI Publishing Tool
 - [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
 - [suyogrk/GitHub-English-Top-Charts](https://github.com/suyogrk/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
