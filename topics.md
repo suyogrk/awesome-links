@@ -338,6 +338,7 @@
 
 ## deployment 
 
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
 ## design 
@@ -589,6 +590,7 @@
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [driade/laravel-book](https://github.com/driade/laravel-book) - Up to date Epub, Mobi and PDF versions from the official Laravel Docs
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
@@ -707,7 +709,6 @@
 ## others 
 
 - [thecodeholic/php-developer-roadmap](https://github.com/thecodeholic/php-developer-roadmap) - This is PHP Developer Roadmap
-- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [spacelift-io/user-documentation](https://github.com/spacelift-io/user-documentation) - Spacelift User Documentation
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
@@ -817,6 +818,7 @@
 - [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
@@ -947,6 +949,7 @@
 
 ## self-hosted 
 
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
