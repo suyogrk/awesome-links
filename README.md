@@ -261,7 +261,6 @@
 - [kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
 - [ash-jc-allen/laravel-executor](https://github.com/ash-jc-allen/laravel-executor) - Configurable code that can be run when installing and updating your web app.
 - [spatie/laravel-model-flags](https://github.com/spatie/laravel-model-flags) - Add flags to Eloquent models
-- [Harderboy/OpenEMR_src](https://github.com/Harderboy/OpenEMR_src) - 
 - [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; 
 - [spatie/guidelines.spatie.be](https://github.com/spatie/guidelines.spatie.be) - The guidelines used at our company
 - [protonemedia/laravel-guidelines](https://github.com/protonemedia/laravel-guidelines) - Not necessarily coding standards (naming conventions, avoid else, etc.), but more like 'app'-guidelines - things you don't want to forget.
@@ -307,6 +306,7 @@
 
 ## Ruby 
 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [sportdb/sport.db](https://github.com/sportdb/sport.db) - sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries
