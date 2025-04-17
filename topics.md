@@ -768,7 +768,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [relaypro-open/sql-style-guide](https://github.com/relaypro-open/sql-style-guide) - SQL Style Guide
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-- [ladybirdweb/faveo-helpdesk](https://github.com/ladybirdweb/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework
+- [faveosuite/faveo-helpdesk](https://github.com/faveosuite/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework
 - [marekbrainhub/vue-developer-roadmap](https://github.com/marekbrainhub/vue-developer-roadmap) - Roadmap to becoming a better Vue developer in 2019
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [manikandanraji/twitter-clone-backend](https://github.com/manikandanraji/twitter-clone-backend) - Twitter Clone Backend (Prisma + GraphQL)
