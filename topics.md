@@ -116,7 +116,6 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
-- [ui-design](#ui-design)
 - [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1023,10 +1022,6 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-
-## ui-design 
-
-- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
 ## vim 
 
