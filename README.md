@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [jordan-cutler/codex-mcps-demo](https://github.com/jordan-cutler/codex-mcps-demo) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [suvash/nepalify](https://github.com/suvash/nepalify) - A JavaScript library that adds support for typing Unicode Nepali(नेपाली) input on HTML &lt;input&gt; and &lt;textarea&gt;. (both in romanized and traditional layout)
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
