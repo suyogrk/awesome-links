@@ -76,6 +76,7 @@
 - [material-design](#material-design)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
+- [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
@@ -490,7 +491,7 @@
 - [JoBinsJP/vue3-datatable](https://github.com/JoBinsJP/vue3-datatable) - Data table component for Vue3
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -624,7 +625,7 @@
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [Vuedo/vuedo](https://github.com/Vuedo/vuedo) - Vuedo is a blog platform, built with Laravel and Vue.js.
 - [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [ammezie/laravel-notes](https://github.com/ammezie/laravel-notes) - A collaborative note app built with Laravel and Pusher
 - [pvtl/voyager-page-blocks](https://github.com/pvtl/voyager-page-blocks) - A module to provide page blocks for Voyager 📝
 - [Hardeepcoder/larashop55](https://github.com/Hardeepcoder/larashop55) - Shopping cart website in Laravel 5.5 with Ajax
@@ -679,6 +680,10 @@
 
 - [misa-j/social-network](https://github.com/misa-j/social-network) - Mini social network that I made as my first web app project.
 - [rohan-paul/Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
+
+## music 
+
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
 ## mysql 
 
@@ -1065,7 +1070,7 @@
 - [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ## vuejs 
