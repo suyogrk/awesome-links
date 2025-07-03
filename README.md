@@ -236,6 +236,7 @@
 
 ## PHP 
 
+- [staudenmeir/laravel-adjacency-list](https://github.com/staudenmeir/laravel-adjacency-list) - Recursive Laravel Eloquent relationships with CTEs
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [sokil/php-concurrency-labs](https://github.com/sokil/php-concurrency-labs) - PHP Concurency research
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
