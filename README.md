@@ -275,7 +275,7 @@
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
 - [Vuedo/vuedo](https://github.com/Vuedo/vuedo) - Vuedo is a blog platform, built with Laravel and Vue.js.
 - [faveosuite/faveo-helpdesk](https://github.com/faveosuite/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework
-- [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
+- [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [bahdcoder/build-a-youtube-clone-in-laravel-and-vuejs](https://github.com/bahdcoder/build-a-youtube-clone-in-laravel-and-vuejs) - Project from Youtube clone course
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers.
 - [lukeraymonddowning/poser](https://github.com/lukeraymonddowning/poser) - Create class based model factories in Laravel applications in seconds.
