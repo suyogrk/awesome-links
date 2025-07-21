@@ -36,6 +36,7 @@
 - [deployment](#deployment)
 - [design](#design)
 - [development](#development)
+- [devops](#devops)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -72,6 +73,7 @@
 - [laravel](#laravel)
 - [learning](#learning)
 - [library](#library)
+- [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [material-design](#material-design)
@@ -367,6 +369,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## devops 
+
+- [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
+
 ## discord 
 
 - [Zeks/flipper](https://github.com/Zeks/flipper) - Search/Recommendation engine and metainformation server for fanfiction net
@@ -595,6 +601,7 @@
 
 ## kubernetes 
 
+- [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## language 
@@ -658,6 +665,10 @@
 ## library 
 
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+
+## linux 
+
+- [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
 
 ## machine-learning 
 
