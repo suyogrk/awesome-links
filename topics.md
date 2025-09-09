@@ -17,6 +17,7 @@
 - [aws](#aws)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bootstrap](#bootstrap)
 - [c](#c)
 - [cms](#cms)
@@ -246,6 +247,12 @@
 
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+## beginner-project 
+
+- [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bootstrap 
 
@@ -772,7 +779,7 @@
 - [illuminate/collections](https://github.com/illuminate/collections) - [READ ONLY] Subtree split of the Illuminate Collections component (see laravel/framework)
 - [HugoMatilla/The-Pragmatic-Programmer](https://github.com/HugoMatilla/The-Pragmatic-Programmer) - Summary of the book The Pragmatic Programmer by Andrew Hunt and  David Thomas
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems the
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [byrondover/api-guidelines](https://github.com/byrondover/api-guidelines) - RESTful HTTP API guidelines and best practices.
 - [keras-team/governance](https://github.com/keras-team/governance) - Governance of the Keras API.
 - [RefactoringGuru/refactoring-examples](https://github.com/RefactoringGuru/refactoring-examples) - 
