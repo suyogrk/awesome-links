@@ -140,6 +140,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [xcode](#xcode)
+- [zsh](#zsh)
 
 ## ajax 
 
@@ -1175,6 +1176,10 @@
 ## xcode 
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+## zsh 
+
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 
 
 ## License
