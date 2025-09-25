@@ -20,6 +20,7 @@
 - [beginner-project](#beginner-project)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -265,6 +266,11 @@
 ## c 
 
 - [theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT](https://github.com/theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT) - Curated list of notes, books and other resources for the student of Nepal College of Information and Technology(NCIT) - Pokhara University, Nepal
+
+## cloud 
+
+- [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
