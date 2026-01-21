@@ -245,7 +245,7 @@
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowerin
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
