@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -23,6 +24,7 @@
 - [c](#c)
 - [cloud](#cloud)
 - [cms](#cms)
+- [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -83,6 +85,7 @@
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
@@ -147,6 +150,10 @@
 - [website](#website)
 - [xcode](#xcode)
 - [zsh](#zsh)
+
+## ai 
+
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 
 ## ajax 
 
@@ -292,6 +299,10 @@
 
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
+
+## code 
+
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 
 ## code-quality 
 
@@ -741,6 +752,10 @@
 
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 
+## mcp 
+
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+
 ## microservices 
 
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -814,6 +829,9 @@
 
 ## others 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+- [ArtemisAI/skills-for-copilot](https://github.com/ArtemisAI/skills-for-copilot) - Public repository for Skills
+- [alonw0/llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer) - A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation
 - [staudenmeir/laravel-adjacency-list](https://github.com/staudenmeir/laravel-adjacency-list) - Recursive Laravel Eloquent relationships with CTEs
 - [jordan-cutler/codex-mcps-demo](https://github.com/jordan-cutler/codex-mcps-demo) - 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
