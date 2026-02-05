@@ -155,7 +155,7 @@
 
 ## ai 
 
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks
 
 ## ai-agents 
 
@@ -309,7 +309,7 @@
 
 ## code 
 
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks
 
 ## code-quality 
 
@@ -762,7 +762,7 @@
 
 ## mcp 
 
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks
 
 ## microservices 
 
