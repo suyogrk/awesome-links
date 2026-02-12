@@ -27,7 +27,6 @@
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Blade 
@@ -312,6 +311,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [purcellconsult/Cracking-Python-Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp) - A course that helps newbies master the core principles of one of the world's most popular programming languages, python.
 - [mnemosyne-proj/mnemosyne](https://github.com/mnemosyne-proj/mnemosyne) - Mnemosyne: efficient learning with powerful digital flash-cards.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -362,10 +362,6 @@
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-## Vim Script 
-
-- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 
 ## Vue 
 
