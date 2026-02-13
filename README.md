@@ -91,6 +91,7 @@
 
 ## JavaScript 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [jordan-cutler/codex-mcps-demo](https://github.com/jordan-cutler/codex-mcps-demo) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [suvash/nepalify](https://github.com/suvash/nepalify) - A JavaScript library that adds support for typing Unicode Nepali(नेपाली) input on HTML &lt;input&gt; and &lt;textarea&gt;. (both in romanized and traditional layout)
