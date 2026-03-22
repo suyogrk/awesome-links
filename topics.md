@@ -575,7 +575,6 @@
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [JoBinsJP/vue3-datatable](https://github.com/JoBinsJP/vue3-datatable) - Data table component for Vue3
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
-- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
