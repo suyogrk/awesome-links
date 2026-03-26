@@ -47,6 +47,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -448,6 +449,10 @@
 ## discord 
 
 - [Zeks/flipper](https://github.com/Zeks/flipper) - Search/Recommendation engine and metainformation server for fanfiction net
+
+## distributed-systems 
+
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
 ## django 
 
