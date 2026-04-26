@@ -337,9 +337,9 @@
 - [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
 - [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
