@@ -23,6 +23,7 @@
 - [beginner-project](#beginner-project)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [c-sharp](#c-sharp)
 - [claude-code](#claude-code)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -298,6 +299,10 @@
 ## c 
 
 - [theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT](https://github.com/theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT) - Curated list of notes, books and other resources for the student of Nepal College of Information and Technology(NCIT) - Pokhara University, Nepal
+
+## c-sharp 
+
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 
 ## claude-code 
 
