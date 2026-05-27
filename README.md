@@ -22,6 +22,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -235,7 +236,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 
 ## PHP 
@@ -323,6 +323,10 @@
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [sportdb/sport.db](https://github.com/sportdb/sport.db) - sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
+## Rust 
+
+- [keon/bitkit](https://github.com/keon/bitkit) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
 
 ## SCSS 
 
