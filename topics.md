@@ -124,6 +124,7 @@
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
+- [rust](#rust)
 - [sass](#sass)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -944,7 +945,6 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [dpdahal/mvc_project7am](https://github.com/dpdahal/mvc_project7am) - 
 - [workshopper/javascripting](https://github.com/workshopper/javascripting) - Learn JavaScript by adventuring around in the terminal.
-- [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [oerpub/github-bookeditor](https://github.com/oerpub/github-bookeditor) - Edit Textbooks using Javascript and save to GitHub
 - [stahta01/windows-games](https://github.com/stahta01/windows-games) - Windows games someone wrote a long time ago.
@@ -1098,6 +1098,10 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [sportdb/sport.db](https://github.com/sportdb/sport.db) - sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries
+
+## rust 
+
+- [keon/bitkit](https://github.com/keon/bitkit) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
 
 ## sass 
 
