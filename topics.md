@@ -278,7 +278,6 @@
 - [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
-- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -625,7 +624,6 @@
 ## http 
 
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
 
 ## instagram 
 
@@ -709,7 +707,6 @@
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
-- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
 - [WendellAdriel/laravel-exa](https://github.com/WendellAdriel/laravel-exa) - Opinionated Modularized API Skeleton for Laravel
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
@@ -971,7 +968,6 @@
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
-- [Treblle/security-headers](https://github.com/Treblle/security-headers) - A collection of HTTP middleware classes to improve the security headers in your Laravel application
 - [WendellAdriel/larapi](https://github.com/WendellAdriel/larapi) - API Skeleton created with Laravel
 - [php-strictus/strictus](https://github.com/php-strictus/strictus) - Strict Typing on inline variables for PHP
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
