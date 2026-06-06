@@ -84,7 +84,7 @@
 
 ## Java 
 
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [williamfiset/algorithms](https://github.com/williamfiset/algorithms) - A collection of algorithms and data structures
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [binay-shah/developing_mobile_app](https://github.com/binay-shah/developing_mobile_app) - 
 - [goessl/MachineLearning](https://github.com/goessl/MachineLearning) - An easy neural network for Java!
