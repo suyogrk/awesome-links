@@ -1092,7 +1092,7 @@
 
 ## rust 
 
-- [keon/bitkit](https://github.com/keon/bitkit) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
+- [keon/browser-control](https://github.com/keon/browser-control) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
 
 ## sass 
 
