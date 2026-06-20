@@ -323,7 +323,7 @@
 
 ## Rust 
 
-- [keon/browser-control](https://github.com/keon/browser-control) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
+- [keon/browser-control](https://github.com/keon/browser-control) - A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.
 
 ## SCSS 
 
