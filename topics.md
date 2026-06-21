@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -86,6 +87,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [mcp](#mcp)
@@ -155,6 +157,10 @@
 - [website](#website)
 - [xcode](#xcode)
 - [zsh](#zsh)
+
+## agent 
+
+- [keon/browser-control](https://github.com/keon/browser-control) - A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.
 
 ## ai 
 
@@ -754,6 +760,10 @@
 
 - [deepakkumar-platform/DevOps-Learn-By-Doing](https://github.com/deepakkumar-platform/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
 
+## llm 
+
+- [keon/browser-control](https://github.com/keon/browser-control) - A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.
+
 ## machine-learning 
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1092,7 +1102,7 @@
 
 ## rust 
 
-- [keon/browser-control](https://github.com/keon/browser-control) - High-performance, width-aware bit manipulation around a single Bits&lt;T&gt; newtype.
+- [keon/browser-control](https://github.com/keon/browser-control) - A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.
 
 ## sass 
 
