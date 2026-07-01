@@ -307,7 +307,6 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [purcellconsult/Cracking-Python-Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp) - A course that helps newbies master the core principles of one of the world's most popular programming languages, python.
