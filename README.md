@@ -245,7 +245,7 @@
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [sokil/php-concurrency-labs](https://github.com/sokil/php-concurrency-labs) - PHP Concurency research
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
-- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Laravel Slower: Optimize Your DB Queries with AI
+- [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Find slow database queries, get AI-powered optimization tips, and browse them in a built-in dashboard — for Laravel.
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowerin
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
