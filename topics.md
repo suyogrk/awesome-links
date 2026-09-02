@@ -192,7 +192,7 @@
 
 - [modiqo/skillspec](https://github.com/modiqo/skillspec) - SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [halilcosdu/laravel-slower](https://github.com/halilcosdu/laravel-slower) - ★ Find slow database queries, get AI-powered optimization tips, and browse them in a built-in dashboard — for Laravel.
@@ -260,7 +260,7 @@
 
 ## automation 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
@@ -361,7 +361,7 @@
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 
 ## claude-code 
@@ -370,7 +370,7 @@
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -382,7 +382,7 @@
 
 ## cli 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 
 ## cloud 
 
@@ -655,12 +655,12 @@
 
 ## golang 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## good-first-issue 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 
 ## graphql 
 
@@ -685,7 +685,7 @@
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
@@ -828,7 +828,7 @@
 - [lukepolo/laracart](https://github.com/lukepolo/laracart) - Laravel Shopping Cart Package
 - [TimothyDJones/awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) - A curated list of delightful Laravel PHP framework packages and resources
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) - A curated list of resources for learning about the Laravel PHP Framework
 - [summerblue/laravel5-cheatsheet](https://github.com/summerblue/laravel5-cheatsheet) - A quick reference guide (cheat sheet) for Laravel 5.1 LTS, listing artisan, composer, routes and other useful bits of information.
@@ -956,12 +956,12 @@
 
 ## open-source 
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 
 ## others 
 
@@ -1094,7 +1094,7 @@
 - [yegor256/quiz](https://github.com/yegor256/quiz) - Refactor the code to make it look more object-oriented and maintainable
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [Xethron/migrations-generator](https://github.com/Xethron/migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
