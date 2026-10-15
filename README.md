@@ -27,7 +27,6 @@
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Blade 
@@ -74,6 +73,7 @@
 - [danieldelcore/mega-interview-guide](https://github.com/danieldelcore/mega-interview-guide) - The MEGA interview guide, JavaSciript, Front End, Comp Sci
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [Hardeepcoder/larashop55](https://github.com/Hardeepcoder/larashop55) - Shopping cart website in Laravel 5.5 with Ajax
 - [dpdahal/php10am_project](https://github.com/dpdahal/php10am_project) - 
@@ -373,10 +373,6 @@
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-## Vim Script 
-
-- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 
 ## Vue 
 
