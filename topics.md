@@ -159,6 +159,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -1611,6 +1612,11 @@
 ## shell 
 
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
+
+## skills 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 
 ## software 
 
