@@ -136,6 +136,7 @@
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -875,7 +876,7 @@
 
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT](https://github.com/theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT) - Curated list of notes, books and other resources for the student of Nepal College of Information and Technology(NCIT) - Pokhara University, Nepal
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
@@ -1011,7 +1012,7 @@
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [driade/laravel-book](https://github.com/driade/laravel-book) - Up to date Epub, Mobi and PDF versions from the official Laravel Docs
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
@@ -1410,7 +1411,7 @@
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [infinite-education/php-developer-roadmap](https://github.com/infinite-education/php-developer-roadmap) - A roadmap to become a senior PHP developer
 - [canopas/web-developer-roadmap](https://github.com/canopas/web-developer-roadmap) - Web Developer Roadmap is a path to understand web development including frontend, backend and cloud.
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [timacdonald/json-api](https://github.com/timacdonald/json-api) - A lightweight API resource for Laravel that helps you adhere to the JSON:API standard. Supports sparse fieldsets, compound documents, and more.
 - [abd-wazzan/laravel-api-boilerplate](https://github.com/abd-wazzan/laravel-api-boilerplate) - A Laravel project with a Domain-Driven Design (DDD) structure, basic configuration, and commonly used packages pre-installed and configured, to help you start building your next big application.
@@ -1435,6 +1436,10 @@
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+
+## portfolio 
+
+- [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading
 
 ## postgresql 
 
